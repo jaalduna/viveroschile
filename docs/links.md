@@ -9,5 +9,3 @@ https://www.cameliaylavanda.com/?gad_source=1&gad_campaignid=18498271096&gclid=C
 
 https://www.agroelrecuerdo.com/?gad_source=1&gad_campaignid=21014295970&gclid=Cj0KCQjwss3DBhC3ARIsALdgYxN3U16pj8wdFmknlpg04tENN71d7cnOs0qMOZueqKcKim2JH-BeM4QaAnsuEALw_wcB
 https://plantme.cl/collections/plantas-tropicales
-
-minor change
