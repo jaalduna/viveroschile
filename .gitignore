@@ -1,4 +1,4 @@
 __pycache__
 env
 *.parquet
-*.csv
+data/raw/WFO_Backbone
